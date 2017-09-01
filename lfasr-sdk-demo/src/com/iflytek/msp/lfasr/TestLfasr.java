@@ -1,7 +1,9 @@
 package com.iflytek.msp.lfasr;
 
+import java.io.File;
 import java.util.HashMap;
 
+import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 import com.alibaba.fastjson.JSON;
@@ -22,7 +24,17 @@ public class TestLfasr
 	private static int sleepSecond = 20;
 	
 	public static void main(String[] args) {
-		PropertyConfigurator.configure("log4j.properties");
+		
+		File a = new File("log4j.properties");
+		File b = new File("config.properties");
+		System.out.println("a: " + a.exists());
+		System.out.println("b: " + b.exists());
+		Logger logger = Logger.getLogger(TestLfasr.class);
+		logger.error("Jerry check whether log configuration file works");
+		// System.exit(-1);
+		
+		// PropertyConfigurator.configure("log4j.properties");
+		
 	
 		LfasrClientImp lc = null;
 		try {
