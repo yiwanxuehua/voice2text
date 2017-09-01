@@ -15,7 +15,7 @@ import com.iflytek.msp.cpdb.lfasr.model.ProgressStatus;
 public class TestLfasr 
 {
 	// original media path
-	private static final String local_file = "...";
+	private static final String local_file = "c:\\temp\\test.m4a";
 
 	private static final LfasrType type = LfasrType.LFASR_STANDARD_RECORDED_AUDIO;
 	
@@ -38,8 +38,7 @@ public class TestLfasr
 		HashMap<String, String> params = new HashMap<>();
 		params.put("has_participle", "true");
 		try {
-			// upload media file to Server���Ƶ�ļ�
-			Message uploadMsg = lc.lfasrUpload(local_file, type, params);ֵ
+			Message uploadMsg = lc.lfasrUpload(local_file, type, params);
 			int ok = uploadMsg.getOk();
 			if (ok == 0) {
 				task_id = uploadMsg.getData();
