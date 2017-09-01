@@ -1,0 +1,40 @@
+2017-06-05 09:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:88) - prepare ok
+2017-06-05 09:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:92) - get task_id:c9d93babcede4c8ca8e729a01668404e
+2017-06-05 09:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:138) - write meta info success, store file:E:\20170511 Voice Samples\resources\/c9d93babcede4c8ca8e729a01668404e.dat
+2017-06-05 09:50:29 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:c9d93babcede4c8ca8e729a01668404e
+2017-06-05 09:50:30 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:c9d93babcede4c8ca8e729a01668404e send meger success, 
+2017-06-05 14:50:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:88) - prepare ok
+2017-06-05 14:50:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:92) - get task_id:7f68a882e0de461ea97fc2e3e864313c
+2017-06-05 14:50:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:138) - write meta info success, store file:E:\/7f68a882e0de461ea97fc2e3e864313c.dat
+2017-06-05 14:50:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:7f68a882e0de461ea97fc2e3e864313c
+2017-06-05 14:50:10 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:7f68a882e0de461ea97fc2e3e864313c send meger success, 
+2017-06-14 15:45:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:45:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:49c4fdd5b727472d9aca68b90f38926d
+2017-06-14 15:45:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/49c4fdd5b727472d9aca68b90f38926d.dat
+2017-06-14 15:45:40 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:49c4fdd5b727472d9aca68b90f38926d
+2017-06-14 15:45:41 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:49c4fdd5b727472d9aca68b90f38926d send meger success, 
+2017-06-14 15:49:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:49:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:96f1f886a86e4403add7006d2113f6e1
+2017-06-14 15:49:06 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/96f1f886a86e4403add7006d2113f6e1.dat
+2017-06-14 15:49:10 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:96f1f886a86e4403add7006d2113f6e1
+2017-06-14 15:49:11 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:96f1f886a86e4403add7006d2113f6e1 send meger success, 
+2017-06-14 15:49:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:49:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:1e36df6f542649359ca0db21c65f3c93
+2017-06-14 15:49:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/1e36df6f542649359ca0db21c65f3c93.dat
+2017-06-14 15:49:37 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:1e36df6f542649359ca0db21c65f3c93
+2017-06-14 15:49:38 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:1e36df6f542649359ca0db21c65f3c93 send meger success, 
+2017-06-14 15:50:19 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:50:19 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:2ca3431d99e44834b910892a71053728
+2017-06-14 15:50:19 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/2ca3431d99e44834b910892a71053728.dat
+2017-06-14 15:50:23 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:2ca3431d99e44834b910892a71053728
+2017-06-14 15:50:24 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:2ca3431d99e44834b910892a71053728 send meger success, 
+2017-06-14 15:54:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:54:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:067f84798cd54e4abd3c0d3471d3af4d
+2017-06-14 15:54:09 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/067f84798cd54e4abd3c0d3471d3af4d.dat
+2017-06-14 15:54:16 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:067f84798cd54e4abd3c0d3471d3af4d
+2017-06-14 15:54:18 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:067f84798cd54e4abd3c0d3471d3af4d send meger success, 
+2017-06-14 15:55:30 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:91) - prepare ok
+2017-06-14 15:55:30 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.upload(UploadWorker.java:95) - get task_id:cefc5b6663fb419ca9ae1e90c3abe68c
+2017-06-14 15:55:31 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadWorker.metaPersistency(UploadWorker.java:141) - write meta info success, store file:E:\/cefc5b6663fb419ca9ae1e90c3abe68c.dat
+2017-06-14 15:55:34 [ INFO] com.iflytek.msp.cpdb.lfasr.worker.UploadThread.run(UploadThread.java:43) - upload file send success, file:E:\20170511 Voice Samples\resources\ceshi.wav, task_id:cefc5b6663fb419ca9ae1e90c3abe68c
+2017-06-14 15:55:35 [ INFO] com.iflytek.msp.cpdb.lfasr.event.EventHandler$ProcessorThread.run(EventHandler.java:131) - task_id:cefc5b6663fb419ca9ae1e90c3abe68c send meger success, 
