@@ -25,10 +25,10 @@ public class TestLfasr
 	
 	public static void main(String[] args) {
 		
-		File a = new File("log4j.properties");
-		File b = new File("config.properties");
-		System.out.println("a: " + a.exists());
-		System.out.println("b: " + b.exists());
+		/*System.setProperty("http.proxyHost", "proxy.sha.sap.corp");
+        System.setProperty("http.proxyPort", "8080");
+        System.setProperty("https.proxyHost", "proxy.sha.sap.corp");
+        System.setProperty("https.proxyPort", "8080");*/
 		Logger logger = Logger.getLogger(TestLfasr.class);
 		logger.error("Jerry check whether log configuration file works");
 		// System.exit(-1);
